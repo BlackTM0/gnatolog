@@ -408,7 +408,7 @@ color: white;
  .section-4-main-item{ 
     width: 20%;
     background-color: white;
-    border: 1px solid #ef8354;
+    border: 1px solid #4f5d75;
     box-shadow: 1px 5px 10px -5px black;
     border-radius: 10px;
  text-align: center;
@@ -430,7 +430,7 @@ margin-top: 20px;
  }
 
  .section-4-main-item-bottom{ 
-    background-color: #ef8354;
+    background-color: #4f5d75;
     color: white;
 padding-top:1px;
 padding-bottom:1px; 
@@ -442,6 +442,7 @@ z-index: 2;
 
  .section-4-bottom-button{ 
     margin-bottom: 20px;
+    background-color: #ef8354;
  }
  
  .section-5-main{ 
